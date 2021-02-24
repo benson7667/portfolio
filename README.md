@@ -33,7 +33,7 @@ Demo - https://ne-assignment.vercel.app/
 ### Razer Inc
 ###### Convert a legacy application into ReactJS application.
 Source code - https://github.com/benson7667/razer-assignment <br/>
-Extra Upgraded Version - https://boring-brown-c7d082.netlify.app/
+Extra Upgraded Version - https://boring-brown-c7d082.netlify.app/ <br />
 Original Version - https://practical-tesla-550e41.netlify.app/
 
 ### Lead IQ
