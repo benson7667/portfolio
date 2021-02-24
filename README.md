@@ -1,11 +1,13 @@
 # Past Company Project
 ### Mercedes-benz southeast-asia ecommerce platform (web)
 2020 - 2021 <br/>
-https://shop.mercedes-benz.com/en-th/shop/srp/vehicle <br/>
-https://shop.mercedes-benz.com/en-vn/shop/srp/vehicle <br/>
-https://shop.mercedes-benz.com/en-id/shop/srp/vehicle <br/>
-https://shop.mercedes-benz.com/ko-kr/shop/srp/vehicle <br/>
-https://shop.mercedes-benz.com/en-my/shop/srp/vehicle <br/>
+THAILAND - https://shop.mercedes-benz.com/en-th/shop/srp/vehicle <br/>
+VIENTNAM - https://shop.mercedes-benz.com/en-vn/shop/srp/vehicle <br/>
+INDONESSIA - https://shop.mercedes-benz.com/en-id/shop/srp/vehicle <br/>
+KOREA - https://shop.mercedes-benz.com/ko-kr/shop/srp/vehicle <br/>
+MALAYSIA - https://shop.mercedes-benz.com/en-my/shop/srp/vehicle <br/>
+NEW ZEALAND - https://shop.mercedes-benz.com/en-nz/shop/srp/vehicle <br/>
+SINGAPORE - https://shop.mercedes-benz.com/en-sg/shop/srp/vehicle <br/>
 
 ### Eatigo restaurant reservation platform (PWA & Desktop web)
 2019 - 2020 <br/>
