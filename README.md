@@ -2,10 +2,10 @@
 ### Mercedes-benz southeast-asia ecommerce platform (web)
 2020 - 2021 <br/>
 https://shop.mercedes-benz.com/en-th/shop/srp/vehicle <br/>
-https://shop.mercedes-benz.com/en-th/shop/srp/vehicle <br/>
-https://shop.mercedes-benz.com/en-th/shop/srp/vehicle <br/>
-https://shop.mercedes-benz.com/en-th/shop/srp/vehicle <br/>
-https://shop.mercedes-benz.com/en-th/shop/srp/vehicle <br/>
+https://shop.mercedes-benz.com/en-vn/shop/srp/vehicle <br/>
+https://shop.mercedes-benz.com/en-id/shop/srp/vehicle <br/>
+https://shop.mercedes-benz.com/ko-kr/shop/srp/vehicle <br/>
+https://shop.mercedes-benz.com/en-my/shop/srp/vehicle <br/>
 
 ### Eatigo restaurant reservation platform (PWA & Desktop web)
 2019 - 2020 <br/>
