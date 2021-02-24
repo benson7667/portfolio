@@ -18,7 +18,7 @@ https://eatigo.com <br/>
 Playstore - https://play.google.com/store/apps/details?id=com.jilcreation.getjobs <br/>
 AppStore - https://apps.apple.com/sg/app/getjobsforme/id1447335761
 
-# Fun Project
+# Just for Fun
 ### Movie Search
 Source code - https://github.com/benson7667/sunflix <br/>
 Demo - https://sunflix-f43c7.firebaseapp.com/
