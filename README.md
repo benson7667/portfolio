@@ -15,7 +15,8 @@ https://eatigo.com <br/>
 
 ### Part-time job platform (React Native mobile app)
 2018 - 2019 <br/>
-https://play.google.com/store/apps/details?id=com.jilcreation.getjobs
+Playstore - https://play.google.com/store/apps/details?id=com.jilcreation.getjobs <br/>
+AppStore - https://apps.apple.com/sg/app/getjobsforme/id1447335761
 
 # Fun Project
 ### Movie Search
